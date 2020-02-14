@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <category term="all" label="r/all"/>
-    <updated>2020-02-14T15:50:18+00:00</updated>
+    <updated>2020-02-14T16:32:30+00:00</updated>
     <id>all</id>
     <link rel="self" href="https://old.reddit.com/r/all.rss" type="application/atom+xml" />
     <link rel="alternate" href="https://old.reddit.com/r/all" type="text/html" />
@@ -23,6 +23,19 @@
     
     <entry>
         <author>
+            <name>/u/yomamascub</name>
+            <uri>https://old.reddit.com/user/yomamascub</uri>
+        </author>
+        <category term="WatchPeopleDieInside" label="r/WatchPeopleDieInside"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/WatchPeopleDieInside/comments/f3sh9b/she_loves_me_she_loves_me_not/"> <img src="https://b.thumbs.redditmedia.com/Lm34Oz4lS0Cjqh9lLmB54BSUveORgPJFNJ7cyW8IcIU.jpg" alt="She loves me, she loves me not" title="She loves me, she loves me not" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/yomamascub"> /u/yomamascub </a> &#32; to &#32; <a href="https://old.reddit.com/r/WatchPeopleDieInside/"> r/WatchPeopleDieInside </a> <br/> <span><a href="https://v.redd.it/lzgg3ot3awg41">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/WatchPeopleDieInside/comments/f3sh9b/she_loves_me_she_loves_me_not/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3sh9b</id>
+        <link href="https://v.redd.it/lzgg3ot3awg41" />
+        <updated>2020-02-14T13:53:41+00:00</updated>
+        <title>She loves me, she loves me not</title>
+    </entry>
+    
+    <entry>
+        <author>
             <name>/u/MagnumPear</name>
             <uri>https://old.reddit.com/user/MagnumPear</uri>
         </author>
@@ -32,6 +45,19 @@
         <link href="https://gfycat.com/qualifiedpeacefulindianskimmer" />
         <updated>2020-02-14T11:08:11+00:00</updated>
         <title>In Citizen Kane (1941), the audience that watches Kane make his speech is a still photo. To give the illusion of crowd movement, holes were pricked in with a pin, and lights moved around behind it.</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/DemiFiendRSA</name>
+            <uri>https://old.reddit.com/user/DemiFiendRSA</uri>
+        </author>
+        <category term="StrangerThings" label="r/StrangerThings"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/StrangerThings/comments/f3skiv/stranger_things_4_from_russia_with_love_netflix/"> <img src="https://b.thumbs.redditmedia.com/9PGLWQ-7SHTvG3b-Pyu9fJvTsj_r-_a7BaMZGMxpRSc.jpg" alt="Stranger Things 4 | From Russia with love… | Netflix" title="Stranger Things 4 | From Russia with love… | Netflix" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> &#32; to &#32; <a href="https://old.reddit.com/r/StrangerThings/"> r/StrangerThings </a> <br/> <span><a href="https://www.youtube.com/watch?v=oB2GYwbIAlM">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/StrangerThings/comments/f3skiv/stranger_things_4_from_russia_with_love_netflix/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3skiv</id>
+        <link href="https://www.youtube.com/watch?v=oB2GYwbIAlM" />
+        <updated>2020-02-14T14:01:00+00:00</updated>
+        <title>Stranger Things 4 | From Russia with love… | Netflix</title>
     </entry>
     
     <entry>
@@ -62,93 +88,15 @@
     
     <entry>
         <author>
-            <name>/u/wj7_02</name>
-            <uri>https://old.reddit.com/user/wj7_02</uri>
+            <name>/u/GallowBoob</name>
+            <uri>https://old.reddit.com/user/GallowBoob</uri>
         </author>
-        <category term="gaming" label="r/gaming"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/gaming/comments/f3qnak/defusing_the_bomb_in_front_of_his_crying_eyes/"> <img src="https://b.thumbs.redditmedia.com/FLlFOaohv7Ey8bE1OUp6Wml2r3LZKq5k7nHd7aETVEM.jpg" alt="Defusing The Bomb In Front Of His Crying Eyes." title="Defusing The Bomb In Front Of His Crying Eyes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/wj7_02"> /u/wj7_02 </a> &#32; to &#32; <a href="https://old.reddit.com/r/gaming/"> r/gaming </a> <br/> <span><a href="https://gfycat.com/obviousthreadbarehake">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/gaming/comments/f3qnak/defusing_the_bomb_in_front_of_his_crying_eyes/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qnak</id>
-        <link href="https://gfycat.com/obviousthreadbarehake" />
-        <updated>2020-02-14T11:01:24+00:00</updated>
-        <title>Defusing The Bomb In Front Of His Crying Eyes.</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/SpilledJamJar</name>
-            <uri>https://old.reddit.com/user/SpilledJamJar</uri>
-        </author>
-        <category term="pics" label="r/pics"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/pics/comments/f3qqf1/my_housemate_asked_me_to_decorate_his_bathroom/"> <img src="https://b.thumbs.redditmedia.com/m3kD6eq1aeezV4GJ20vx8oZIf7s3eGGWJjmqIUhbBfI.jpg" alt="My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner." title="My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/SpilledJamJar"> /u/SpilledJamJar </a> &#32; to &#32; <a href="https://old.reddit.com/r/pics/"> r/pics </a> <br/> <span><a href="https://i.redd.it/0uqw5704hvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/pics/comments/f3qqf1/my_housemate_asked_me_to_decorate_his_bathroom/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qqf1</id>
-        <link href="https://i.redd.it/0uqw5704hvg41.jpg" />
-        <updated>2020-02-14T11:10:32+00:00</updated>
-        <title>My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner.</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/Wenge03</name>
-            <uri>https://old.reddit.com/user/Wenge03</uri>
-        </author>
-        <category term="SelfAwarewolves" label="r/SelfAwarewolves"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/SelfAwarewolves/comments/f3qcta/brexiteer_discovers_what_brexit_meant_for_their/"> <img src="https://b.thumbs.redditmedia.com/pluAgxhbSpc9o7unCyksDGL6w5G61w7Ra-HrftVQeAk.jpg" alt="Brexiteer discovers what brexit meant for their holidays." title="Brexiteer discovers what brexit meant for their holidays." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/Wenge03"> /u/Wenge03 </a> &#32; to &#32; <a href="https://old.reddit.com/r/SelfAwarewolves/"> r/SelfAwarewolves </a> <br/> <span><a href="https://i.redd.it/wcyu5jvc9vg41.png">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/SelfAwarewolves/comments/f3qcta/brexiteer_discovers_what_brexit_meant_for_their/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qcta</id>
-        <link href="https://i.redd.it/wcyu5jvc9vg41.png" />
-        <updated>2020-02-14T10:28:34+00:00</updated>
-        <title>Brexiteer discovers what brexit meant for their holidays.</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/pixxelzombie</name>
-            <uri>https://old.reddit.com/user/pixxelzombie</uri>
-        </author>
-        <category term="instant_regret" label="r/instant_regret"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/instant_regret/comments/f3qle5/going_slow_doesnt_make_the_steps_easier_to_ride/"> <img src="https://b.thumbs.redditmedia.com/R4sSN3Hs6UfjnAQB7b_N7BbgbKerHQtrBzH8eaYDyUQ.jpg" alt="going slow doesn't make the steps easier to ride down" title="going slow doesn't make the steps easier to ride down" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/pixxelzombie"> /u/pixxelzombie </a> &#32; to &#32; <a href="https://old.reddit.com/r/instant_regret/"> r/instant_regret </a> <br/> <span><a href="https://gfycat.com/ordinarylegitimateachillestang">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/instant_regret/comments/f3qle5/going_slow_doesnt_make_the_steps_easier_to_ride/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qle5</id>
-        <link href="https://gfycat.com/ordinarylegitimateachillestang" />
-        <updated>2020-02-14T10:55:04+00:00</updated>
-        <title>going slow doesn't make the steps easier to ride down</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/AnArousedCatfish</name>
-            <uri>https://old.reddit.com/user/AnArousedCatfish</uri>
-        </author>
-        <category term="dankmemes" label="r/dankmemes"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/dankmemes/comments/f3qitk/fuck_it/"> <img src="https://b.thumbs.redditmedia.com/BdudCDqgYh3s90AO0hM7LRQ6sV0yCbOoGGB54TpU1nY.jpg" alt="fuck it" title="fuck it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/AnArousedCatfish"> /u/AnArousedCatfish </a> &#32; to &#32; <a href="https://old.reddit.com/r/dankmemes/"> r/dankmemes </a> <br/> <span><a href="https://i.redd.it/uukzzzuzcvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/dankmemes/comments/f3qitk/fuck_it/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qitk</id>
-        <link href="https://i.redd.it/uukzzzuzcvg41.jpg" />
-        <updated>2020-02-14T10:47:27+00:00</updated>
-        <title>fuck it</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/teymon</name>
-            <uri>https://old.reddit.com/user/teymon</uri>
-        </author>
-        <category term="facepalm" label="r/facepalm"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/facepalm/comments/f3qlb5/ehrm_actually_thats_exactly_what_you_voted_for/"> <img src="https://b.thumbs.redditmedia.com/jgJ18aekzEk9R5BD0dDPCf1wNTIHHbh5bnL2y_ODYRw.jpg" alt="Ehrm actually, that's exactly what you voted for" title="Ehrm actually, that's exactly what you voted for" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/teymon"> /u/teymon </a> &#32; to &#32; <a href="https://old.reddit.com/r/facepalm/"> r/facepalm </a> <br/> <span><a href="https://imgur.com/7sbVi9a">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/facepalm/comments/f3qlb5/ehrm_actually_thats_exactly_what_you_voted_for/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qlb5</id>
-        <link href="https://imgur.com/7sbVi9a" />
-        <updated>2020-02-14T10:54:49+00:00</updated>
-        <title>Ehrm actually, that's exactly what you voted for</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/HocalLost</name>
-            <uri>https://old.reddit.com/user/HocalLost</uri>
-        </author>
-        <category term="mildlyinteresting" label="r/mildlyinteresting"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/mildlyinteresting/comments/f3qv1v/fire_extinguisher_graffiti_in_office/"> <img src="https://b.thumbs.redditmedia.com/rPmRGpXG2EA5uiL7S96GnQK3voGTsrlpx4nLsn9hmPM.jpg" alt="Fire extinguisher graffiti in office" title="Fire extinguisher graffiti in office" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/HocalLost"> /u/HocalLost </a> &#32; to &#32; <a href="https://old.reddit.com/r/mildlyinteresting/"> r/mildlyinteresting </a> <br/> <span><a href="https://i.redd.it/gc4fuleijvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/mildlyinteresting/comments/f3qv1v/fire_extinguisher_graffiti_in_office/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qv1v</id>
-        <link href="https://i.redd.it/gc4fuleijvg41.jpg" />
-        <updated>2020-02-14T11:24:02+00:00</updated>
-        <title>Fire extinguisher graffiti in office</title>
+        <category term="nextfuckinglevel" label="r/nextfuckinglevel"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/nextfuckinglevel/comments/f3seyo/these_diagrams_show_the_paths_traced_by_mercury/"> <img src="https://b.thumbs.redditmedia.com/dj61dl5q5nhdgBbKc8AdvTvnhpjGuHidHjW-8EslVvM.jpg" alt="These diagrams show the paths traced by Mercury, Venus, Mars, Jupiter and Saturn as seen from Earth." title="These diagrams show the paths traced by Mercury, Venus, Mars, Jupiter and Saturn as seen from Earth." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/GallowBoob"> /u/GallowBoob </a> &#32; to &#32; <a href="https://old.reddit.com/r/nextfuckinglevel/"> r/nextfuckinglevel </a> <br/> <span><a href="https://i.redd.it/7yllfgrb9wg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/nextfuckinglevel/comments/f3seyo/these_diagrams_show_the_paths_traced_by_mercury/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3seyo</id>
+        <link href="https://i.redd.it/7yllfgrb9wg41.jpg" />
+        <updated>2020-02-14T13:48:39+00:00</updated>
+        <title>These diagrams show the paths traced by Mercury, Venus, Mars, Jupiter and Saturn as seen from Earth.</title>
     </entry>
     
     <entry>
@@ -169,6 +117,58 @@
             <name>/u/wj7_02</name>
             <uri>https://old.reddit.com/user/wj7_02</uri>
         </author>
+        <category term="gaming" label="r/gaming"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/gaming/comments/f3qnak/defusing_the_bomb_in_front_of_his_crying_eyes/"> <img src="https://b.thumbs.redditmedia.com/FLlFOaohv7Ey8bE1OUp6Wml2r3LZKq5k7nHd7aETVEM.jpg" alt="Defusing The Bomb In Front Of His Crying Eyes." title="Defusing The Bomb In Front Of His Crying Eyes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/wj7_02"> /u/wj7_02 </a> &#32; to &#32; <a href="https://old.reddit.com/r/gaming/"> r/gaming </a> <br/> <span><a href="https://gfycat.com/obviousthreadbarehake">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/gaming/comments/f3qnak/defusing_the_bomb_in_front_of_his_crying_eyes/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qnak</id>
+        <link href="https://gfycat.com/obviousthreadbarehake" />
+        <updated>2020-02-14T11:01:24+00:00</updated>
+        <title>Defusing The Bomb In Front Of His Crying Eyes.</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/HocalLost</name>
+            <uri>https://old.reddit.com/user/HocalLost</uri>
+        </author>
+        <category term="mildlyinteresting" label="r/mildlyinteresting"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/mildlyinteresting/comments/f3qv1v/fire_extinguisher_graffiti_in_office/"> <img src="https://b.thumbs.redditmedia.com/rPmRGpXG2EA5uiL7S96GnQK3voGTsrlpx4nLsn9hmPM.jpg" alt="Fire extinguisher graffiti in office" title="Fire extinguisher graffiti in office" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/HocalLost"> /u/HocalLost </a> &#32; to &#32; <a href="https://old.reddit.com/r/mildlyinteresting/"> r/mildlyinteresting </a> <br/> <span><a href="https://i.redd.it/gc4fuleijvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/mildlyinteresting/comments/f3qv1v/fire_extinguisher_graffiti_in_office/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qv1v</id>
+        <link href="https://i.redd.it/gc4fuleijvg41.jpg" />
+        <updated>2020-02-14T11:24:02+00:00</updated>
+        <title>Fire extinguisher graffiti in office</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/NearbyDANKSTER</name>
+            <uri>https://old.reddit.com/user/NearbyDANKSTER</uri>
+        </author>
+        <category term="BlackPeopleTwitter" label="r/BlackPeopleTwitter"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/BlackPeopleTwitter/comments/f3sbjv/mans_was_madd/"> <img src="https://b.thumbs.redditmedia.com/lL_iu4eysRwKcgksdFEtVKbucNBWuBwvo3pPSkyV4yk.jpg" alt="Man's was Madd" title="Man's was Madd" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/NearbyDANKSTER"> /u/NearbyDANKSTER </a> &#32; to &#32; <a href="https://old.reddit.com/r/BlackPeopleTwitter/"> r/BlackPeopleTwitter </a> <br/> <span><a href="https://i.redd.it/ch4wzwxx7wg41.png">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/BlackPeopleTwitter/comments/f3sbjv/mans_was_madd/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3sbjv</id>
+        <link href="https://i.redd.it/ch4wzwxx7wg41.png" />
+        <updated>2020-02-14T13:40:54+00:00</updated>
+        <title>Man's was Madd</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/SpilledJamJar</name>
+            <uri>https://old.reddit.com/user/SpilledJamJar</uri>
+        </author>
+        <category term="pics" label="r/pics"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/pics/comments/f3qqf1/my_housemate_asked_me_to_decorate_his_bathroom/"> <img src="https://b.thumbs.redditmedia.com/m3kD6eq1aeezV4GJ20vx8oZIf7s3eGGWJjmqIUhbBfI.jpg" alt="My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner." title="My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/SpilledJamJar"> /u/SpilledJamJar </a> &#32; to &#32; <a href="https://old.reddit.com/r/pics/"> r/pics </a> <br/> <span><a href="https://i.redd.it/0uqw5704hvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/pics/comments/f3qqf1/my_housemate_asked_me_to_decorate_his_bathroom/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qqf1</id>
+        <link href="https://i.redd.it/0uqw5704hvg41.jpg" />
+        <updated>2020-02-14T11:10:32+00:00</updated>
+        <title>My housemate asked me to decorate his bathroom for his girlfriend while they were out for dinner.</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/wj7_02</name>
+            <uri>https://old.reddit.com/user/wj7_02</uri>
+        </author>
         <category term="GetMotivated" label="r/GetMotivated"/>
         <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/GetMotivated/comments/f3qrz0/before_he_became_a_world_champion_a_17_year_old/"> <img src="https://b.thumbs.redditmedia.com/23eKqVzs79wxZr-BhE9c-G2lJVV0oyb8w6IZHOO4ePo.jpg" alt="Before he became a world champion: a 17 Year old Manny Pacquiao training on ghetto gym equipment made from bicycle tires and wood [Image]" title="Before he became a world champion: a 17 Year old Manny Pacquiao training on ghetto gym equipment made from bicycle tires and wood [Image]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/wj7_02"> /u/wj7_02 </a> &#32; to &#32; <a href="https://old.reddit.com/r/GetMotivated/"> r/GetMotivated </a> <br/> <span><a href="https://i.redd.it/odmlzsxuhvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/GetMotivated/comments/f3qrz0/before_he_became_a_world_champion_a_17_year_old/">[comments]</a></span> </td></tr></table></content>
         <id>t3_f3qrz0</id>
@@ -179,15 +179,54 @@
     
     <entry>
         <author>
-            <name>/u/maxwellhill</name>
-            <uri>https://old.reddit.com/user/maxwellhill</uri>
+            <name>/u/OGToke</name>
+            <uri>https://old.reddit.com/user/OGToke</uri>
         </author>
-        <category term="worldnews" label="r/worldnews"/>
-        <content type="html">&#32; submitted by &#32; <a href="https://old.reddit.com/user/maxwellhill"> /u/maxwellhill </a> &#32; to &#32; <a href="https://old.reddit.com/r/worldnews/"> r/worldnews </a> <br/> <span><a href="https://edition.cnn.com/2020/02/13/politics/trump-rudy-giuliani-ukraine-interview/index.html">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/worldnews/comments/f3q3lr/trump_now_openly_admits_to_sending_giuliani_to/">[comments]</a></span></content>
-        <id>t3_f3q3lr</id>
-        <link href="https://edition.cnn.com/2020/02/13/politics/trump-rudy-giuliani-ukraine-interview/index.html" />
-        <updated>2020-02-14T09:59:35+00:00</updated>
-        <title>Trump now openly admits to sending Giuliani to Ukraine to find damaging information about his political opponents, even though he strongly denied it during the impeachment inquiry.</title>
+        <category term="memes" label="r/memes"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/memes/comments/f3rud7/an_extraordinary_humble_invincibility_cloak/"> <img src="https://b.thumbs.redditmedia.com/1xBg7epWtcENOyqMYt9lej1OHqENgrWVtlpfxQh0B3A.jpg" alt="An extraordinary humble Invincibility Cloak." title="An extraordinary humble Invincibility Cloak." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/OGToke"> /u/OGToke </a> &#32; to &#32; <a href="https://old.reddit.com/r/memes/"> r/memes </a> <br/> <span><a href="https://i.redd.it/yd1w0zbn0wg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/memes/comments/f3rud7/an_extraordinary_humble_invincibility_cloak/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3rud7</id>
+        <link href="https://i.redd.it/yd1w0zbn0wg41.jpg" />
+        <updated>2020-02-14T13:00:00+00:00</updated>
+        <title>An extraordinary humble Invincibility Cloak.</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/pixxelzombie</name>
+            <uri>https://old.reddit.com/user/pixxelzombie</uri>
+        </author>
+        <category term="instant_regret" label="r/instant_regret"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/instant_regret/comments/f3qle5/going_slow_doesnt_make_the_steps_easier_to_ride/"> <img src="https://b.thumbs.redditmedia.com/R4sSN3Hs6UfjnAQB7b_N7BbgbKerHQtrBzH8eaYDyUQ.jpg" alt="going slow doesn't make the steps easier to ride down" title="going slow doesn't make the steps easier to ride down" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/pixxelzombie"> /u/pixxelzombie </a> &#32; to &#32; <a href="https://old.reddit.com/r/instant_regret/"> r/instant_regret </a> <br/> <span><a href="https://gfycat.com/ordinarylegitimateachillestang">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/instant_regret/comments/f3qle5/going_slow_doesnt_make_the_steps_easier_to_ride/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qle5</id>
+        <link href="https://gfycat.com/ordinarylegitimateachillestang" />
+        <updated>2020-02-14T10:55:04+00:00</updated>
+        <title>going slow doesn't make the steps easier to ride down</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/Wenge03</name>
+            <uri>https://old.reddit.com/user/Wenge03</uri>
+        </author>
+        <category term="SelfAwarewolves" label="r/SelfAwarewolves"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/SelfAwarewolves/comments/f3qcta/brexiteer_discovers_what_brexit_meant_for_their/"> <img src="https://b.thumbs.redditmedia.com/pluAgxhbSpc9o7unCyksDGL6w5G61w7Ra-HrftVQeAk.jpg" alt="Brexiteer discovers what brexit meant for their holidays." title="Brexiteer discovers what brexit meant for their holidays." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/Wenge03"> /u/Wenge03 </a> &#32; to &#32; <a href="https://old.reddit.com/r/SelfAwarewolves/"> r/SelfAwarewolves </a> <br/> <span><a href="https://i.redd.it/wcyu5jvc9vg41.png">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/SelfAwarewolves/comments/f3qcta/brexiteer_discovers_what_brexit_meant_for_their/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qcta</id>
+        <link href="https://i.redd.it/wcyu5jvc9vg41.png" />
+        <updated>2020-02-14T10:28:34+00:00</updated>
+        <title>Brexiteer discovers what brexit meant for their holidays.</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/teymon</name>
+            <uri>https://old.reddit.com/user/teymon</uri>
+        </author>
+        <category term="facepalm" label="r/facepalm"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/facepalm/comments/f3qlb5/ehrm_actually_thats_exactly_what_you_voted_for/"> <img src="https://b.thumbs.redditmedia.com/jgJ18aekzEk9R5BD0dDPCf1wNTIHHbh5bnL2y_ODYRw.jpg" alt="Ehrm actually, that's exactly what you voted for" title="Ehrm actually, that's exactly what you voted for" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/teymon"> /u/teymon </a> &#32; to &#32; <a href="https://old.reddit.com/r/facepalm/"> r/facepalm </a> <br/> <span><a href="https://imgur.com/7sbVi9a">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/facepalm/comments/f3qlb5/ehrm_actually_thats_exactly_what_you_voted_for/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qlb5</id>
+        <link href="https://imgur.com/7sbVi9a" />
+        <updated>2020-02-14T10:54:49+00:00</updated>
+        <title>Ehrm actually, that's exactly what you voted for</title>
     </entry>
     
     <entry>
@@ -201,6 +240,45 @@
         <link href="https://i.redd.it/pxcyxdwzdvg41.jpg" />
         <updated>2020-02-14T10:53:04+00:00</updated>
         <title>Smart derp</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/AnArousedCatfish</name>
+            <uri>https://old.reddit.com/user/AnArousedCatfish</uri>
+        </author>
+        <category term="dankmemes" label="r/dankmemes"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/dankmemes/comments/f3qitk/fuck_it/"> <img src="https://b.thumbs.redditmedia.com/BdudCDqgYh3s90AO0hM7LRQ6sV0yCbOoGGB54TpU1nY.jpg" alt="fuck it" title="fuck it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/AnArousedCatfish"> /u/AnArousedCatfish </a> &#32; to &#32; <a href="https://old.reddit.com/r/dankmemes/"> r/dankmemes </a> <br/> <span><a href="https://i.redd.it/uukzzzuzcvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/dankmemes/comments/f3qitk/fuck_it/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qitk</id>
+        <link href="https://i.redd.it/uukzzzuzcvg41.jpg" />
+        <updated>2020-02-14T10:47:27+00:00</updated>
+        <title>fuck it</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/564sdfgdfg</name>
+            <uri>https://old.reddit.com/user/564sdfgdfg</uri>
+        </author>
+        <category term="technology" label="r/technology"/>
+        <content type="html">&#32; submitted by &#32; <a href="https://old.reddit.com/user/564sdfgdfg"> /u/564sdfgdfg </a> &#32; to &#32; <a href="https://old.reddit.com/r/technology/"> r/technology </a> <br/> <span><a href="https://www.nationalreview.com/news/youtube-removes-clip-of-rand-paul-speaking-on-senate-floor-over-concerns-he-outed-ukraine-whistleblower/">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/technology/comments/f3qsj7/youtube_removes_clip_of_rand_paul_speaking_on/">[comments]</a></span></content>
+        <id>t3_f3qsj7</id>
+        <link href="https://www.nationalreview.com/news/youtube-removes-clip-of-rand-paul-speaking-on-senate-floor-over-concerns-he-outed-ukraine-whistleblower/" />
+        <updated>2020-02-14T11:16:16+00:00</updated>
+        <title>YouTube Removes Clip of Rand Paul Speaking on Senate Floor, Citing Concern He Named Ukraine Whistleblower</title>
+    </entry>
+    
+    <entry>
+        <author>
+            <name>/u/SteamPaul</name>
+            <uri>https://old.reddit.com/user/SteamPaul</uri>
+        </author>
+        <category term="lego" label="r/lego"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/lego/comments/f3qugr/made_a_little_something_based_on_adam_savages/"> <img src="https://b.thumbs.redditmedia.com/zykGonwoFDLR8avWOMV5W4ncKuV_aI4R4SO2URe5Lmk.jpg" alt="Made a little something based on Adam savage‘s creation" title="Made a little something based on Adam savage‘s creation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/SteamPaul"> /u/SteamPaul </a> &#32; to &#32; <a href="https://old.reddit.com/r/lego/"> r/lego </a> <br/> <span><a href="https://i.redd.it/sd0jl366jvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/lego/comments/f3qugr/made_a_little_something_based_on_adam_savages/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3qugr</id>
+        <link href="https://i.redd.it/sd0jl366jvg41.jpg" />
+        <updated>2020-02-14T11:22:03+00:00</updated>
+        <title>Made a little something based on Adam savage‘s creation</title>
     </entry>
     
     <entry>
@@ -231,106 +309,28 @@
     
     <entry>
         <author>
-            <name>/u/SteamPaul</name>
-            <uri>https://old.reddit.com/user/SteamPaul</uri>
+            <name>/u/TheBrosofFist</name>
+            <uri>https://old.reddit.com/user/TheBrosofFist</uri>
         </author>
-        <category term="lego" label="r/lego"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/lego/comments/f3qugr/made_a_little_something_based_on_adam_savages/"> <img src="https://b.thumbs.redditmedia.com/zykGonwoFDLR8avWOMV5W4ncKuV_aI4R4SO2URe5Lmk.jpg" alt="Made a little something based on Adam savage‘s creation" title="Made a little something based on Adam savage‘s creation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/SteamPaul"> /u/SteamPaul </a> &#32; to &#32; <a href="https://old.reddit.com/r/lego/"> r/lego </a> <br/> <span><a href="https://i.redd.it/sd0jl366jvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/lego/comments/f3qugr/made_a_little_something_based_on_adam_savages/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qugr</id>
-        <link href="https://i.redd.it/sd0jl366jvg41.jpg" />
-        <updated>2020-02-14T11:22:03+00:00</updated>
-        <title>Made a little something based on Adam savage‘s creation</title>
+        <category term="Tinder" label="r/Tinder"/>
+        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/Tinder/comments/f3r8id/pics_never_lie/"> <img src="https://b.thumbs.redditmedia.com/K05KTS0vkiSl4wlO2n5KY2Hc6yaujtZl-XYOQs-BtrA.jpg" alt="Pics never lie" title="Pics never lie" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/TheBrosofFist"> /u/TheBrosofFist </a> &#32; to &#32; <a href="https://old.reddit.com/r/Tinder/"> r/Tinder </a> <br/> <span><a href="https://i.redd.it/7i34xmlgqvg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/Tinder/comments/f3r8id/pics_never_lie/">[comments]</a></span> </td></tr></table></content>
+        <id>t3_f3r8id</id>
+        <link href="https://i.redd.it/7i34xmlgqvg41.jpg" />
+        <updated>2020-02-14T12:02:54+00:00</updated>
+        <title>Pics never lie</title>
     </entry>
     
     <entry>
         <author>
-            <name>/u/Alersteam</name>
-            <uri>https://old.reddit.com/user/Alersteam</uri>
+            <name>/u/maxwellhill</name>
+            <uri>https://old.reddit.com/user/maxwellhill</uri>
         </author>
-        <category term="gifs" label="r/gifs"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/gifs/comments/f3q9dt/out_of_my_way/"> <img src="https://b.thumbs.redditmedia.com/Mt51BBNRgDuUtX36_NEvXvl0PrfQKOuIYPqvHtDPMrk.jpg" alt="Out of my way!" title="Out of my way!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/Alersteam"> /u/Alersteam </a> &#32; to &#32; <a href="https://old.reddit.com/r/gifs/"> r/gifs </a> <br/> <span><a href="https://i.redd.it/ykxe1vom7vg41.gif">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/gifs/comments/f3q9dt/out_of_my_way/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3q9dt</id>
-        <link href="https://i.redd.it/ykxe1vom7vg41.gif" />
-        <updated>2020-02-14T10:17:30+00:00</updated>
-        <title>Out of my way!</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/564sdfgdfg</name>
-            <uri>https://old.reddit.com/user/564sdfgdfg</uri>
-        </author>
-        <category term="technology" label="r/technology"/>
-        <content type="html">&#32; submitted by &#32; <a href="https://old.reddit.com/user/564sdfgdfg"> /u/564sdfgdfg </a> &#32; to &#32; <a href="https://old.reddit.com/r/technology/"> r/technology </a> <br/> <span><a href="https://www.nationalreview.com/news/youtube-removes-clip-of-rand-paul-speaking-on-senate-floor-over-concerns-he-outed-ukraine-whistleblower/">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/technology/comments/f3qsj7/youtube_removes_clip_of_rand_paul_speaking_on/">[comments]</a></span></content>
-        <id>t3_f3qsj7</id>
-        <link href="https://www.nationalreview.com/news/youtube-removes-clip-of-rand-paul-speaking-on-senate-floor-over-concerns-he-outed-ukraine-whistleblower/" />
-        <updated>2020-02-14T11:16:16+00:00</updated>
-        <title>YouTube Removes Clip of Rand Paul Speaking on Senate Floor, Citing Concern He Named Ukraine Whistleblower</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/wj7_02</name>
-            <uri>https://old.reddit.com/user/wj7_02</uri>
-        </author>
-        <category term="NatureIsFuckingLit" label="r/NatureIsFuckingLit"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/NatureIsFuckingLit/comments/f3qly7/whaler_sharks_caught_inside_a_wave/"> <img src="https://b.thumbs.redditmedia.com/Qy8_bUURdoGSYBjhwSjS_yacE9zBgEOMcDgq_6GoaJU.jpg" alt="🔥 Whaler sharks caught inside a wave 🔥" title="🔥 Whaler sharks caught inside a wave 🔥" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/wj7_02"> /u/wj7_02 </a> &#32; to &#32; <a href="https://old.reddit.com/r/NatureIsFuckingLit/"> r/NatureIsFuckingLit </a> <br/> <span><a href="https://i.redd.it/lkpy1vaeevg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/NatureIsFuckingLit/comments/f3qly7/whaler_sharks_caught_inside_a_wave/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qly7</id>
-        <link href="https://i.redd.it/lkpy1vaeevg41.jpg" />
-        <updated>2020-02-14T10:56:54+00:00</updated>
-        <title>🔥 Whaler sharks caught inside a wave 🔥</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/DemiFiendRSA</name>
-            <uri>https://old.reddit.com/user/DemiFiendRSA</uri>
-        </author>
-        <category term="StrangerThings" label="r/StrangerThings"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/StrangerThings/comments/f3skiv/stranger_things_4_from_russia_with_love_netflix/"> <img src="https://b.thumbs.redditmedia.com/9PGLWQ-7SHTvG3b-Pyu9fJvTsj_r-_a7BaMZGMxpRSc.jpg" alt="Stranger Things 4 | From Russia with love… | Netflix" title="Stranger Things 4 | From Russia with love… | Netflix" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> &#32; to &#32; <a href="https://old.reddit.com/r/StrangerThings/"> r/StrangerThings </a> <br/> <span><a href="https://www.youtube.com/watch?v=oB2GYwbIAlM">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/StrangerThings/comments/f3skiv/stranger_things_4_from_russia_with_love_netflix/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3skiv</id>
-        <link href="https://www.youtube.com/watch?v=oB2GYwbIAlM" />
-        <updated>2020-02-14T14:01:00+00:00</updated>
-        <title>Stranger Things 4 | From Russia with love… | Netflix</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/OGToke</name>
-            <uri>https://old.reddit.com/user/OGToke</uri>
-        </author>
-        <category term="memes" label="r/memes"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/memes/comments/f3rud7/an_extraordinary_humble_invincibility_cloak/"> <img src="https://b.thumbs.redditmedia.com/1xBg7epWtcENOyqMYt9lej1OHqENgrWVtlpfxQh0B3A.jpg" alt="An extraordinary humble Invincibility Cloak." title="An extraordinary humble Invincibility Cloak." /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/OGToke"> /u/OGToke </a> &#32; to &#32; <a href="https://old.reddit.com/r/memes/"> r/memes </a> <br/> <span><a href="https://i.redd.it/yd1w0zbn0wg41.jpg">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/memes/comments/f3rud7/an_extraordinary_humble_invincibility_cloak/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3rud7</id>
-        <link href="https://i.redd.it/yd1w0zbn0wg41.jpg" />
-        <updated>2020-02-14T13:00:00+00:00</updated>
-        <title>An extraordinary humble Invincibility Cloak.</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/audieXripper</name>
-            <uri>https://old.reddit.com/user/audieXripper</uri>
-        </author>
-        <category term="trashy" label="r/trashy"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/trashy/comments/f3rla6/thought_this_belonged_here/"> <img src="https://b.thumbs.redditmedia.com/wTe63rq_KVruwJq4cZ-FKg5irMQCBGcVlU5QYyTzvlQ.jpg" alt="thought this belonged here" title="thought this belonged here" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/audieXripper"> /u/audieXripper </a> &#32; to &#32; <a href="https://old.reddit.com/r/trashy/"> r/trashy </a> <br/> <span><a href="https://i.redd.it/lswglnwfwvg41.png">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/trashy/comments/f3rla6/thought_this_belonged_here/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3rla6</id>
-        <link href="https://i.redd.it/lswglnwfwvg41.png" />
-        <updated>2020-02-14T12:37:02+00:00</updated>
-        <title>thought this belonged here</title>
-    </entry>
-    
-    <entry>
-        <author>
-            <name>/u/wj7_02</name>
-            <uri>https://old.reddit.com/user/wj7_02</uri>
-        </author>
-        <category term="nonononoyes" label="r/nonononoyes"/>
-        <content type="html"><table> <tr><td> <a href="https://old.reddit.com/r/nonononoyes/comments/f3qn2x/forgetting_to_set_the_parking_brake_on_a_brand/"> <img src="https://b.thumbs.redditmedia.com/Rwv1kkxuBVwMeUOe3kDV7TaGrKEt8cjVWtOTvQZU4SQ.jpg" alt="Forgetting To Set The Parking Brake On A Brand New Porche" title="Forgetting To Set The Parking Brake On A Brand New Porche" /> </a> </td><td> &#32; submitted by &#32; <a href="https://old.reddit.com/user/wj7_02"> /u/wj7_02 </a> &#32; to &#32; <a href="https://old.reddit.com/r/nonononoyes/"> r/nonononoyes </a> <br/> <span><a href="https://gfycat.com/revolvingtidygrunion">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/nonononoyes/comments/f3qn2x/forgetting_to_set_the_parking_brake_on_a_brand/">[comments]</a></span> </td></tr></table></content>
-        <id>t3_f3qn2x</id>
-        <link href="https://gfycat.com/revolvingtidygrunion" />
-        <updated>2020-02-14T11:00:42+00:00</updated>
-        <title>Forgetting To Set The Parking Brake On A Brand New Porche</title>
+        <category term="worldnews" label="r/worldnews"/>
+        <content type="html">&#32; submitted by &#32; <a href="https://old.reddit.com/user/maxwellhill"> /u/maxwellhill </a> &#32; to &#32; <a href="https://old.reddit.com/r/worldnews/"> r/worldnews </a> <br/> <span><a href="https://edition.cnn.com/2020/02/13/politics/trump-rudy-giuliani-ukraine-interview/index.html">[link]</a></span> &#32; <span><a href="https://old.reddit.com/r/worldnews/comments/f3q3lr/trump_now_openly_admits_to_sending_giuliani_to/">[comments]</a></span></content>
+        <id>t3_f3q3lr</id>
+        <link href="https://edition.cnn.com/2020/02/13/politics/trump-rudy-giuliani-ukraine-interview/index.html" />
+        <updated>2020-02-14T09:59:35+00:00</updated>
+        <title>Trump now openly admits to sending Giuliani to Ukraine to find damaging information about his political opponents, even though he strongly denied it during the impeachment inquiry.</title>
     </entry>
     
 </feed>
